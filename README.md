@@ -18,7 +18,7 @@ Databases: "MySQL, PostgreSQL, MongoDB"
 TechStack: "Spring Boot, Hibernate, Laravel, React.js, Astro 4"
 ——————
 Interests:
-"High performance computing and cybersecurity"
+"High performance computing, cybersecurity & Linux"
 ```
 <!--
 **GabyyHshss/GabyyHshss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
