@@ -4,7 +4,7 @@ University Technician in Programming with solid knowledge in full-stack technolo
 You can see what I'm currently up to on my little channel (coming soon).
 # 📬 Get in touch
 - My Web: 🌱 Coming soon
-- My LinkedIn: [linkedin.com/in/GabyyHshss](https://github.com/GabyyHshss)
+- My LinkedIn: [linkedin.com/in/GabyyHshss](https://www.linkedin.com/in/gabyypaniagua?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 #
 ```python
 ——————
