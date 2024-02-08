@@ -1,5 +1,24 @@
-### Hi there 👋
-
+# ¡Hallo! 👋🏻
+University Technician in Programming with solid knowledge in full-stack technologies, so now I develop my own projects to expand my job opportunities. In my free time I enjoy making programming videos for yt, go to the gym, and playing the piano 🤟.
+You can see what I'm currently up to on my little channel (coming soon).
+# 📬 Get in touch
+- My Web: 🌱 Coming soon
+- My LinkedIn: [linkedin.com/in/GabyyHshss](https://github.com/GabyyHshss)
+#
+```python
+——————
+University: "Universidad Nacional Tecnológica - Facultad Regional Avellaneda"
+Languages.CS(a): "HTML, CSS, PHP"
+Languages.CS(b): "Java, C#, SQL"
+Languages.CS(c): "Javascript, Python"
+——————
+Databases: "MySQL, PostgreSQL, MongoDB"
+——————
+TechStack: "Spring Boot, Hibernate, Laravel, React.js"
+——————
+Interests:
+"High performance computing and cybersecurity"
+```
 <!--
 **GabyyHshss/GabyyHshss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
