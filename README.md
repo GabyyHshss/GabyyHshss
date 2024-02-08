@@ -15,7 +15,7 @@ Languages.CS(z): "Javascript, Python"
 ——————
 Databases: "MySQL, PostgreSQL, MongoDB"
 ——————
-TechStack: "Spring Boot, Hibernate, Laravel, React.js"
+TechStack: "Spring Boot, Hibernate, Laravel, React.js, Astro 4"
 ——————
 Interests:
 "High performance computing and cybersecurity"
