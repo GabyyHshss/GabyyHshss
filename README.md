@@ -7,7 +7,7 @@ You can see what I'm currently up to on my little channel (coming soon).
 #
 ```python
 ——————
-University: "Universidad Nacional Tecnológica - Facultad Regional Avellaneda"
+University: "Universidad Tecnológica Nacional - Facultad Regional Avellaneda"
 Languages.CS(a): "HTML, CSS, PHP"
 Languages.CS(b): "Java, C#, SQL"
 Languages.CS(c): "Javascript, Python"
