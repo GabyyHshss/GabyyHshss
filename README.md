@@ -17,7 +17,7 @@ Databases: "MySQL, PostgreSQL, MongoDB"
 ——————
 TechStack: "Spring Boot, Hibernate, Laravel, React.js, Astro 4"
 ——————
-Interests:
+Interests or Knowledges:
 "High performance computing, cybersecurity & Linux"
 ```
 <!--
