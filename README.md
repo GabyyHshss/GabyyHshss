@@ -1,4 +1,4 @@
-# ¡Hallo! 👋🏻
+# ¡Welcome! 👋🏻
 University Technician in Programming with solid knowledge in Java Full-Stack, so now I develop my own projects to expand my job opportunities. In my free time I enjoy going to the gym, watch anime, and playing the piano 🤟.
 
 # 📬 Get in touch
@@ -12,6 +12,8 @@ Hard Skills:
 + Java
 + Spring Framework: Spring Boot, Spring Security, Spring Data JPA
 + Hibernate
++ Astro, React, JS
++ Git & GitHub
 ——————
 Databases: "SQL, MySQL, PostgreSQL, MongoDB"
 ——————
