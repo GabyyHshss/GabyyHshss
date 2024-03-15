@@ -1,24 +1,20 @@
 # ¡Hallo! 👋🏻
-University Technician in Programming with solid knowledge in full-stack technologies, so now I develop my own projects to expand my job opportunities. In my free time I enjoy making programming videos for yt, go to the gym, and playing the piano 🤟.
+University Technician in Programming with solid knowledge in Java Full-Stack, so now I develop my own projects to expand my job opportunities. In my free time I enjoy going to the gym, watch anime, and playing the piano 🤟.
 
-You can see what I'm currently up to on my little channel (coming soon).
 # 📬 Get in touch
-- My Web: 🌱 Coming soon
-- My LinkedIn: [linkedin.com/in/GabyyHshss](https://www.linkedin.com/in/gabyypaniagua?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- My Web: [gabyyhshss-dev.netlify.app](https://gabyyhshss-dev.netlify.app/)
+- My LinkedIn: [linkedin.com/in/gabyypaniagua](https://www.linkedin.com/in/gabyypaniagua)
 #
 ```python
 ——————
 University: "Universidad Tecnológica Nacional - Facultad Regional Avellaneda"
-Languages.CS(x): "HTML, CSS, PHP"
-Languages.CS(y): "Java, C#, SQL"
-Languages.CS(z): "Javascript, Python"
+Hard Skills:
++ Java
++ Spring Framework: Spring Boot, Spring Security, Spring Data JPA
++ Hibernate
 ——————
-Databases: "MySQL, PostgreSQL, MongoDB"
+Databases: "SQL, MySQL, PostgreSQL, MongoDB"
 ——————
-TechStack: "Spring Boot, Hibernate, Laravel, Node.js, Astro 4"
-——————
-Interests or Knowledges:
-"High performance computing, cybersecurity & Linux"
 ```
 <!--
 **GabyyHshss/GabyyHshss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
