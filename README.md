@@ -2,7 +2,8 @@
 University Technician in Programming with solid knowledge in Java Full-Stack, so now I develop my own projects to expand my job opportunities. In my free time I enjoy going to the gym, watch anime, and playing the piano 🤟.
 
 # 📬 Get in touch
-- My Web: [gabyyhshss-dev.netlify.app](https://gabyyhshss-dev.netlify.app/)
+<!--
+- My Web: [gabyyhshss-dev.netlify.app](https://gabyyhshss-dev.netlify.app/)-->
 - My LinkedIn: [linkedin.com/in/gabyypaniagua](https://www.linkedin.com/in/gabyypaniagua)
 #
 ```python
