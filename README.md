@@ -13,10 +13,10 @@ Hard Skills:
 + Java
 + Spring Framework: Spring Boot, Spring Security, Spring Data JPA
 + Hibernate
-+ Astro, React, JS
++ Astro, React & JS
 + Git & GitHub
 ——————
-Databases: "SQL, MySQL, PostgreSQL, MongoDB"
+Databases: "SQL, MySQL & MongoDB"
 ——————
 ```
 <!--
