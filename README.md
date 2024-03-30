@@ -1,14 +1,14 @@
-# ¡Welcome! 👋🏻
 <div align="center">
-  <p>I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java.</br> 
-I am looking for opportunities to apply my skills and knowledge in professional projects. Below, you will find a sample of my main projects, where I apply the technologies that I master</p>
+  <h1>¡Welcome! 👋🏻</h1>
+  <h4>I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java.</br> 
+I am looking for opportunities to apply my skills and knowledge in professional projects. Below, you will find a sample of my main projects, where I apply the technologies that I master</h4>
 </div>
 
 
 # 📬 Get in touch
-
 - My Web: [gabyyhshss-dev.netlify.app](https://gabyyhshss-dev.netlify.app/)
 - My LinkedIn: [linkedin.com/in/gabyypaniagua](https://www.linkedin.com/in/gabyypaniagua)
+
 #
 ```python
 ——————
