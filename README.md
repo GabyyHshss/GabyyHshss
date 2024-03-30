@@ -1,5 +1,9 @@
 # ¡Welcome! 👋🏻
-I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java. I am looking for opportunities to apply my skills and knowledge in professional projects. Below, you will find a sample of my main projects, where I apply the technologies that I master.
+<div align="center">
+  <p>I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java.</br> 
+I am looking for opportunities to apply my skills and knowledge in professional projects. Below, you will find a sample of my main projects, where I apply the technologies that I master</p>
+</div>
+
 
 # 📬 Get in touch
 
@@ -8,11 +12,12 @@ I'm advanced student of the University Technicatura in Programming, focused on B
 #
 ```python
 ——————
-University: "Universidad Tecnológica Nacional - Facultad Regional Avellaneda"
+University: Universidad Tecnológica Nacional - Facultad Regional Avellaneda
 Hard Skills:
 + Java
 + Spring Framework: Spring Boot, Spring Security, Spring Data JPA
 + Hibernate
+——————
 + Astro, React & JS
 + Git & GitHub
 ——————
