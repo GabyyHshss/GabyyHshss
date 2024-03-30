@@ -1,5 +1,5 @@
 # ¡Welcome! 👋🏻
-University Technician in Programming with solid knowledge in Java Full-Stack, so now I develop my own projects to expand my job opportunities. In my free time I enjoy going to the gym, watch anime, and playing the piano 🤟.
+I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java. I am looking for opportunities to apply my skills and knowledge in professional projects. Below, you will find a sample of my main projects, where I apply the technologies that I master.
 
 # 📬 Get in touch
 
@@ -16,7 +16,7 @@ Hard Skills:
 + Astro, React & JS
 + Git & GitHub
 ——————
-Databases: "SQL, MySQL & MongoDB"
++ Databases: SQL, MySQL & MongoDB
 ——————
 ```
 <!--
