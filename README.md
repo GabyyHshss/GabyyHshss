@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Welcome! 👋🏻</h1>
-  <h4>I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java.</br> 
+  <h4>I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java and Spring Framework.</br> 
 I am looking for opportunities to apply my skills and knowledge in professional projects. Below, you will find a sample of my main projects, where I apply the technologies that I master</h4>
 </div>
 
@@ -14,14 +14,17 @@ I am looking for opportunities to apply my skills and knowledge in professional 
 ——————
 University: Universidad Tecnológica Nacional - Facultad Regional Avellaneda
 Hard Skills:
-+ Java
-+ Spring Framework: Spring Boot, Spring Security, Spring Data JPA
-+ Hibernate
++ Java 
++ Spring Framework: 
++ Spring Boot & MVC
++ Spring Security & JWT
++ Spring Data JPA & Hibernate
 ——————
 + Astro, React & JS
 + Git & GitHub
++ Docker
 ——————
-+ Databases: SQL, MySQL & MongoDB
++ Databases: MySQL & PostgreSQL
 ——————
 ```
 <!--
