@@ -20,7 +20,7 @@ Hard Skills:
 + Spring Security & JWT
 + Spring Data JPA & Hibernate
 ——————
-+ Node JS, React & Tailwind
++ React & Tailwind
 + Git & GitHub
 + Docker
 ——————
