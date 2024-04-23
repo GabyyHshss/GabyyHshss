@@ -25,6 +25,7 @@ Hard Skills:
 + Docker
 ——————
 + Databases: MySQL & PostgreSQL
++ Knowledge in Rust
 ——————
 ```
 <!--
