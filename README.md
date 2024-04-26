@@ -14,13 +14,13 @@ I am looking for opportunities to apply my skills and knowledge in professional 
 ——————
 University: Universidad Tecnológica Nacional - Facultad Regional Avellaneda
 Hard Skills:
-+ Java 17
++ Java 11
 + Spring Framework: 
 + Spring Boot & MVC
 + Spring Security & JWT
 + Spring Data JPA & Hibernate
 ——————
-+ React & Tailwind
++ React
 + Git & GitHub
 + Docker
 ——————
