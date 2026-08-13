@@ -1,7 +1,6 @@
 <div>
   <h1>👋🏻 ¡Welcome!</h1>
-  <h4>I'm advanced student of the University Technicatura in Programming, focused on BackEnd software development with Java and Spring Framework.</br> 
-I am looking for opportunities to apply my skills and knowledge in professional projects.</h4>
+  <h4> I am looking for opportunities to apply my skills and knowledge in professional projects.</h4>
 </div>
 
 
