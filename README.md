@@ -6,7 +6,6 @@ I am looking for opportunities to apply my skills and knowledge in professional 
 
 
 # 📬 Get in touch
-- My Web: [gabyyhshss-dev.netlify.app](https://gabyyhshss-dev.netlify.app/)
 - My LinkedIn: [linkedin.com/in/gabyypaniagua](https://www.linkedin.com/in/gabyypaniagua)
 
 #
@@ -15,17 +14,11 @@ I am looking for opportunities to apply my skills and knowledge in professional 
 University: Universidad Tecnológica Nacional - Facultad Regional Avellaneda
 Hard Skills:
 + Java 11
-+ Spring Framework: 
-+ Spring Boot & MVC
-+ Spring Security & JWT
-+ Spring Data JPA & Hibernate
-——————
++ Spring Framework
 + React
-+ Git & GitHub
-+ Docker
++ Git
 ——————
 + Databases: MySQL & PostgreSQL
-+ Knowledge in Rust
 ——————
 ```
 <!--
