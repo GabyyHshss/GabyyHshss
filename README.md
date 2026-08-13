@@ -1,6 +1,6 @@
 <div>
   <h1>👋🏻 ¡Welcome!</h1>
-  <h4> Apasionado por la tecnología. Actualmente estudiando ciberseguridad, linux y redes
+  <h4> Apasionado por la tecnología. Actualmente estudiando ciberseguridad, linux y redes </br>
   Mi primer proyecto: https://gabyyhshss.github.io/DigiTamers-Swipe/ </h4>
 </div>
 
