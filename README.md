@@ -1,6 +1,6 @@
 <div>
   <h1>👋🏻 ¡Welcome!</h1>
-  <h4> I am looking for opportunities to apply my skills and knowledge in professional projects.</h4>
+  <h4> Apasionado por la tecnología. Actualmente estudiando ciberseguridad, linux y redes</h4>
 </div>
 
 
